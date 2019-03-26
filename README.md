@@ -10,4 +10,4 @@
 </ul>
 <p>Essa documentação também está na pasta "Doc" do projeto.</p>
 <p>No exemplo, foi criada uma rotina que recebe o código do usuário e a operção à ser executada como parâmetro, realiza a operação e obtêm o retorno do serviço no formato JSON. Foram implementadas algumas validações básicas para garantir a execução.</p>
-<p>Qualquer dúvida/sugestão, por favor, entre em contato através do e-mail jerfweb@gmail.com.</p>
+<p>Qualquer dúvida/sugestão, por favor, entre em contato através do e-mail <a title="jerfweb@gmail.com" href="mailto:jerfweb@gmail.com">jerfweb@gmail.com</a>.</p>
