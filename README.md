@@ -1,5 +1,5 @@
 # API-REST-PROTHEUS
-<p>Exemplo de utiliza&ccedil;&atilde;o da API RestFull do ERP Protheus para cria&ccedil;&atilde;o, atualiza&ccedil;&atilde;o e bloqueio de usu&aacute;rios.</p>
+<p>Exemplo de utiliza&ccedil;&atilde;o da API RestFul do ERP Protheus para cria&ccedil;&atilde;o, atualiza&ccedil;&atilde;o e bloqueio de usu&aacute;rios.</p>
 <ul>
 <li>Documenta&ccedil;&atilde;o dispon&iacute;vel no site da TOTVS:
 <ul>
