@@ -63,7 +63,7 @@ WSMETHOD DELETE SalesOrderDeletion WSRECEIVE BranchNumber, RequestNumber, IdUser
 
 Return lRet
 
-/*/{Protheus.doc} fExcluirPedido
+/*{Protheus.doc} fExcluirPedido
 Função para exclusão do pedido de venda
 @type function
 @version 1.0
@@ -73,7 +73,7 @@ Função para exclusão do pedido de venda
 @param cNumPedido, character, Numero do pedido de venda
 @param cMsgErro, character, Mensagem gerada no processo
 @param lRet, logical, Variacel de controle de processo
-/*/
+*/
 Static Function fExcluirPedido(cFilPed,cNumPedido,cMsgErro,lRet)
 
     Local aCabec            := {}
