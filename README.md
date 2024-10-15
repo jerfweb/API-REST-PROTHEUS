@@ -1,13 +1,16 @@
 # API-REST-PROTHEUS
 
+[![licence badge]][licence]
 [![stars badge]][stars]
 [![forks badge]][forks]
 [![issues badge]][issues]
 
+[licence badge]:https://img.shields.io/github/license/jerfweb/api-rest-protheus
 [stars badge]:https://img.shields.io/github/stars/jerfweb/API-REST-PROTHEUS.svg
 [forks badge]:https://img.shields.io/github/forks/jerfweb/API-REST-PROTHEUS.svg
 [issues badge]:https://img.shields.io/github/issues/jerfweb/API-REST-PROTHEUS.svg
 
+[licence]:https://github.com/jerfweb/API-REST-PROTHEUS/blob/master/LICENSE
 [stars]:https://github.com/jerfweb/API-REST-PROTHEUS/stargazers
 [forks]:https://github.com/jerfweb/API-REST-PROTHEUS/network
 [issues]:https://github.com/jerfweb/API-REST-PROTHEUS/issues
