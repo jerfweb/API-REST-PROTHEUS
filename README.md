@@ -2,7 +2,7 @@
 
 [![stars badge]][stars]
 
-[stars]:https://github.com/jerfweb/API-REST-PROTHEUS/stargazers
+[stars badge]:https://github.com/jerfweb/API-REST-PROTHEUS/stargazers
 
 Exemplos de utilização das API's Rest do ERP Protheus.
 
