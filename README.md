@@ -4,9 +4,9 @@
 [![forks badge]][forks]
 [![issues badge]][issues]
 
-[stars badge]:https://img.shields.io/github/stars/jerfweb/sp_whoisactive.svg
-[forks badge]:https://img.shields.io/github/forks/jerfweb/sp_whoisactive.svg
-[issues badge]:https://img.shields.io/github/issues/jerfweb/sp_whoisactive.svg
+[stars badge]:https://img.shields.io/github/stars/jerfweb/API-REST-PROTHEUS.svg
+[forks badge]:https://img.shields.io/github/forks/jerfweb/API-REST-PROTHEUS.svg
+[issues badge]:https://img.shields.io/github/issues/jerfweb/API-REST-PROTHEUS.svg
 
 [stars]:https://github.com/jerfweb/API-REST-PROTHEUS/stargazers
 [forks]:https://github.com/jerfweb/API-REST-PROTHEUS/network
