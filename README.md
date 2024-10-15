@@ -1,19 +1,17 @@
 # API-REST-PROTHEUS
 
-[![licence badge]][licence]
 [![stars badge]][stars]
 [![forks badge]][forks]
 [![issues badge]][issues]
 
 [licence badge]:https://img.shields.io/badge/license-GPLv3-blue.svg
-[stars badge]:https://img.shields.io/github/stars/amachanic/sp_whoisactive.svg
-[forks badge]:https://img.shields.io/github/forks/amachanic/sp_whoisactive.svg
-[issues badge]:https://img.shields.io/github/issues/amachanic/sp_whoisactive.svg
+[stars badge]:https://img.shields.io/github/issues/jerfweb/API-REST-PROTHEUS/sp_whoisactive.svg
+[forks badge]:https://img.shields.io/github/issues/jerfweb/API-REST-PROTHEUS/sp_whoisactive.svg
+[issues badge]:https://img.shields.io/github/issues/jerfweb/API-REST-PROTHEUS/sp_whoisactive.svg
 
-[licence]:https://github.com/amachanic/sp_whoisactive/blob/master/LICENSE
-[stars]:https://github.com/amachanic/sp_whoisactive/stargazers
-[forks]:https://github.com/amachanic/sp_whoisactive/network
-[issues]:https://github.com/amachanic/sp_whoisactive/issues
+[stars]:https://github.com/jerfweb/API-REST-PROTHEUS/stargazers
+[forks]:https://github.com/jerfweb/API-REST-PROTHEUS/network
+[issues]:https://github.com/jerfweb/API-REST-PROTHEUS/issues
 
 Exemplos de utilização das API's Rest do ERP Protheus.
 
